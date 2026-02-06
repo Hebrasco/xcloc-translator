@@ -1,0 +1,24 @@
+{
+  "originHash" : "2ed18f41f68bc26095e8ddba5fa07d20369bf8d64dcc97edae04d74a748d71e0",
+  "pins" : [
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser",
+      "state" : {
+        "revision" : "c5d11a805e765f52ba34ec7284bd4fcd6ba68615",
+        "version" : "1.7.0"
+      }
+    },
+    {
+      "identity" : "swiftyxml",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/chenyunguiMilook/SwiftyXML.git",
+      "state" : {
+        "revision" : "b27f88cf708563902694d8e09f7fe165c8a998d6",
+        "version" : "3.2.0"
+      }
+    }
+  ],
+  "version" : 3
+}
