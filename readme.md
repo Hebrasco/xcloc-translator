@@ -2,7 +2,7 @@
 
 Before using this script, you need to compile it.
 Add a file `ApiKey` with the following content.
-```
+```Swift
 let API_KEY = "you api key"
 ```
 
